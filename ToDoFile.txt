@@ -1,0 +1,3 @@
+clean,low
+Mop,Very high
+Fix car,low
